@@ -24,6 +24,7 @@ namespace queries
                 new Task(8,"Correr",8),
                 new Task(9,"Cantar",9),
                 new Task(10,"Bailar",5),
+                new Task(10,"Cambiar Estilos",4),
             };
         }
     }
